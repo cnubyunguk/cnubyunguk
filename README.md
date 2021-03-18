@@ -1,6 +1,6 @@
 ### Hi there 👋
-*. I am CNU Student.
-*. I am Software Engineer.
+* I am CNU Student.
+* I am Software Engineer.
 
 
 <!--
