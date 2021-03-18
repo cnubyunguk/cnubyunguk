@@ -1,4 +1,7 @@
 ### Hi there 👋
+*. I am CNU Student.
+*. I am Software Engineer.
+
 
 <!--
 **cnubyunguk/cnubyunguk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
